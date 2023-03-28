@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab5_2023_K00250946.Properties
+namespace Lab9_2023_K00250946.Properties
 {
 
 

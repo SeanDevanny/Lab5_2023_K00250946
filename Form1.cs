@@ -5,7 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab5_2023_K00250946
+namespace Lab9_2023_K00250946
 {
     public partial class Form1 : Form
     {
