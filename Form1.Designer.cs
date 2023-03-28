@@ -1,4 +1,4 @@
-﻿namespace Lab9_2023_K00250946
+﻿namespace Lab5_2023_K00250946
 {
     partial class Form1
     {
